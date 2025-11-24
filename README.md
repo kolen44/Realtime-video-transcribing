@@ -3,6 +3,8 @@
 Кратко
 ------
 Этот проект — простой локальный сервис/скрипт для захвата видео с веб‑камеры и генерации подписи (caption) для кадров без использования внешних API и без Flask. По умолчанию использует публичную модель BLIP (Salesforce/blip-image-captioning-base) через `transformers`. Включено логирование, регулировка частоты инференса и поддержка GPU (CUDA/MPS) при наличии.
+<img width="632" height="504" alt="image" src="https://github.com/user-attachments/assets/8e02d34e-de02-49c6-86fb-006a8768bd58" />
+
 
 Файлы
 -----
